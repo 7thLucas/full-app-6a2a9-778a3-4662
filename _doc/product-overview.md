@@ -51,6 +51,15 @@ reputational damage actually come from. There is no single, defensible audit tra
 5. **Report** — Audit history, compliance dashboards, and reporting give a defensible
    record and a live view of risk.
 
+## Day-one focus (first build)
+
+The hero of the first build is the **live auditor experience** — a reviewer running an
+inspection from an audit checklist: working each requirement, answering questions,
+uploading evidence (documents/photos), recording findings, and marking pass/fail with
+AI flagging the gaps. SOP-to-checklist generation and corrective-action tracking ship
+around it, but the in-field assessment is the moment the product must get
+unmistakably right first.
+
 ## Core capabilities
 
 - Upload SOPs and compliance documents

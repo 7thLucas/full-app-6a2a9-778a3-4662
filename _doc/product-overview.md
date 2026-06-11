@@ -94,6 +94,7 @@ them.
 
 ## Brand & tone
 
-Professional, credible, risk-aware — B2B operational software for compliance teams.
-Calm and trustworthy over flashy. (Final name, logo, and color palette to be set
-during branding.)
+**Audra** — professional, credible, risk-aware B2B operational software for compliance
+teams. Calm and trustworthy over flashy. Visual identity: a compliance-grade mark
+(checkmark + shield) in a deep blue / teal palette, designed to read clearly small on
+an auditor's screen.

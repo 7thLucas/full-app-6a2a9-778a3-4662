@@ -1,8 +1,7 @@
-# Product Overview — AI Audit & Compliance Management Platform
+# Product Overview — Audra (AI Audit & Compliance Management Platform)
 
-> Single source of truth for the product. Working title; final app name to be
-> confirmed during onboarding. All slides and app behavior must stay coherent with
-> this document.
+> Single source of truth for the product. App name confirmed: **Audra**. All slides
+> and app behavior must stay coherent with this document.
 
 ## What it is
 

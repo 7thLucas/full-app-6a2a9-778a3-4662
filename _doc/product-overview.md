@@ -18,6 +18,9 @@ becomes a tracked corrective action that cannot quietly disappear.
 
 ## Who it's for
 
+Internal-facing — built for an organization's own people running audits on themselves,
+not a vendor/client-facing portal.
+
 - **Compliance Administrators / Managers** — own the standards. Upload SOPs and
   policies, configure audit rules, generate checklists, and watch compliance posture
   across the organization.
